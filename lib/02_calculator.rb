@@ -14,5 +14,8 @@ def multiply(x,y)
     return x * y
 end
 
+def factorial(x)
+    return x!
+
 
     
